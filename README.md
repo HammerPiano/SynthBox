@@ -1,0 +1,2 @@
+# SynthBox
+Digital semimodular synthesizer
